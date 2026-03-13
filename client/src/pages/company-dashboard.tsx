@@ -430,8 +430,8 @@ export default function CompanyDashboard() {
               </div>
               <div className="space-y-4">
                 {[
-                  { name: "Production Live Key", key: "sk_live_9x8f7d2k1m3n4p5q6r7s8t9u0v...", created: "Jan 15, 2024", lastUsed: "2 mins ago" },
-                  { name: "Development Test Key", key: "sk_test_1a2b3c4d5e6f7g8h9i0j1k2l3m...", created: "Jan 15, 2024", lastUsed: "3 days ago" },
+                  { name: "Production Live Key", key: "HIDDEN_FOR_SECURITY", created: "Jan 15, 2024", lastUsed: "2 mins ago" },
+                  { name: "Development Test Key", key: "HIDDEN_FOR_SECURITY", created: "Jan 15, 2024", lastUsed: "3 days ago" },
                 ].map((api, i) => (
                   <div key={i} className="bg-slate-900/80 border border-white/5 rounded-xl p-5">
                     <div className="flex justify-between items-start mb-3">
