@@ -1,4 +1,6 @@
 # CloudVault - Enterprise SaaS Platform
+AI Orchestration Hub 
+AuthorOS
 
 CloudVault is a modern, premium, and fully responsive Enterprise SaaS frontend template. Built with the latest web technologies, it provides a clean, dark-themed UI perfect for dashboards, admin panels, and SaaS landing pages.
 
